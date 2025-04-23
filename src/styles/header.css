@@ -1,11 +1,10 @@
 
+
 .head-container {
-  display: block;
-  align-items: center;
-  padding: 10px 20px;
-  background-color: #0845c1;
   width: 100%;
   height: 100vh;
+  background-color: #8298c4;
+  display: flex;
 }
 
 .head-content {
